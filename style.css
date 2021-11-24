@@ -1,0 +1,22 @@
+.header {
+    background-color: paleturquoise;
+
+}
+.links {
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkgreen;
+}
+
+a:hover {
+    color: orange;
+    }
